@@ -1,0 +1,13 @@
+2020-06-05 17:25:31,080  INFO [main] BaseClass:31 - **********Browser Launched**********
+2020-06-05 17:25:35,149  INFO [main] BaseClass:36 - **********Browser Maximized**********
+2020-06-05 17:25:35,671  INFO [main] BaseClass:49 - **********Login Success**********
+2020-06-05 17:25:35,759  INFO [main] BaseClass:20 - **********Customer Name is fetched from Excel**********
+2020-06-05 17:25:35,811  INFO [main] BaseClass:22 - **********Project Name is Fetched from Excel**********
+2020-06-05 17:25:39,641  INFO [main] BaseClass:25 - **********Projects and Customers Link is Clicked**********
+2020-06-05 17:25:42,019  INFO [main] BaseClass:28 - **********Add New Project Button is Clicked**********
+2020-06-05 17:25:42,922  INFO [main] BaseClass:31 - **********Customer is Selected from the dropdown**********
+2020-06-05 17:25:44,342  INFO [main] BaseClass:33 - **********Project Name is entered**********
+2020-06-05 17:25:46,512  INFO [main] BaseClass:35 - **********Create Project Button is clicked**********
+2020-06-05 17:25:46,695  INFO [main] BaseClass:37 - **********Success Message is retrived**********
+2020-06-05 17:25:47,307  INFO [main] BaseClass:54 - **********Logout Success**********
+2020-06-05 17:25:52,336  INFO [main] BaseClass:42 - **********Browser Closed**********
